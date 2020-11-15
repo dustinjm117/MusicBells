@@ -1,0 +1,27 @@
+Flat Notes to Sharp Notes
+A4 4
+A4 4
+REST 4 
+A4B 4
+G4S 4
+REST 4
+G4B 4
+F4S 4
+REST 4
+F4 4
+F4 4
+REST 4
+E4 4
+E4 4
+REST 4
+E4B 4
+D4S 4
+REST 4 
+D4B 4
+C4S 4
+REST 4
+B4 4
+B4 4
+REST 4 
+B4B 4 
+A4S 4
